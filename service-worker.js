@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ZamZao/reactwithtailwindandtwin/precache-manifest.759808ed239c0762a56f377c59221f2c.js"
+  "/ZamZao/reactwithtailwindandtwin/precache-manifest.075c70eabf174491ebcc2eaaad7ef47a.js"
 );
 
 workbox.clientsClaim();

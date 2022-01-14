@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5afcaa55fc83a7d2d3e2",
+    "revision": "9f5547e4daae759c8aca",
     "url": "/ZamZao/reactwithtailwindandtwin/static/css/main.9450bd54.chunk.css"
   },
   {
-    "revision": "5afcaa55fc83a7d2d3e2",
-    "url": "/ZamZao/reactwithtailwindandtwin/static/js/main.aa915e9e.chunk.js"
+    "revision": "9f5547e4daae759c8aca",
+    "url": "/ZamZao/reactwithtailwindandtwin/static/js/main.72be8eba.chunk.js"
   },
   {
     "revision": "5285b522efbb4564aaa3",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ZamZao/reactwithtailwindandtwin/static/js/2.d705a351.chunk.js"
   },
   {
-    "revision": "e3d02a112c555a031ed5f4fadc0829ff",
+    "revision": "a823120633e8823f84ad869efc744ecc",
     "url": "/ZamZao/reactwithtailwindandtwin/index.html"
   }
 ];
