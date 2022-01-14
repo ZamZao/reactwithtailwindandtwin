@@ -1,13 +1,13 @@
 {
-  "main.css": "/ZamZao/reactwithtailwindandtwin/static/css/main.9450bd54.chunk.css",
-  "main.js": "/ZamZao/reactwithtailwindandtwin/static/js/main.72be8eba.chunk.js",
-  "main.js.map": "/ZamZao/reactwithtailwindandtwin/static/js/main.72be8eba.chunk.js.map",
-  "runtime~main.js": "/ZamZao/reactwithtailwindandtwin/static/js/runtime~main.72824710.js",
-  "runtime~main.js.map": "/ZamZao/reactwithtailwindandtwin/static/js/runtime~main.72824710.js.map",
-  "static/js/2.d705a351.chunk.js": "/ZamZao/reactwithtailwindandtwin/static/js/2.d705a351.chunk.js",
-  "static/js/2.d705a351.chunk.js.map": "/ZamZao/reactwithtailwindandtwin/static/js/2.d705a351.chunk.js.map",
-  "index.html": "/ZamZao/reactwithtailwindandtwin/index.html",
-  "precache-manifest.075c70eabf174491ebcc2eaaad7ef47a.js": "/ZamZao/reactwithtailwindandtwin/precache-manifest.075c70eabf174491ebcc2eaaad7ef47a.js",
-  "service-worker.js": "/ZamZao/reactwithtailwindandtwin/service-worker.js",
-  "static/css/main.9450bd54.chunk.css.map": "/ZamZao/reactwithtailwindandtwin/static/css/main.9450bd54.chunk.css.map"
+  "main.css": "/static/css/main.9450bd54.chunk.css",
+  "main.js": "/static/js/main.72be8eba.chunk.js",
+  "main.js.map": "/static/js/main.72be8eba.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.ff13eb5a.chunk.js": "/static/js/2.ff13eb5a.chunk.js",
+  "static/js/2.ff13eb5a.chunk.js.map": "/static/js/2.ff13eb5a.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.2ae59936d320686eb23dfeea0ac1eb61.js": "/precache-manifest.2ae59936d320686eb23dfeea0ac1eb61.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.9450bd54.chunk.css.map": "/static/css/main.9450bd54.chunk.css.map"
 }
